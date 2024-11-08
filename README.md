@@ -3,9 +3,9 @@ This repository contains the code developed for the paper:
 
 Adrianto Oktavianus, Po-Han Chen, Jacob J. Lin. Intelligent Post-Earthquake Building Recovery System: A Framework Combining BIM and Deep Learning. Journal of Building Engineering.
 
-DOI: https://doi.org/.
+DOI: 
 
-Link: (https://www.sciencedirect.com/)
+Link:
 
 Please cite the paper if you use any data or analyses from this study.
 
